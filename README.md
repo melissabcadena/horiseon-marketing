@@ -1,9 +1,11 @@
-# Code Refactor Starter Code
+# Horiseon Marketing
 
 ## Description
 
-In this activity, we have refactored the code for Horiseon to make it more accessible. We have added semantic elements to the HTML, added alt attributes to all images, and re-organized some of the coding while keeping the look and functionality of the current application. 
+Horiseon is an agency assisting with SEO, online reputation management, and Social Media Marketing. We have created a landing page to highlight these services. We have made this page accessible by creating navigation in the header which allows the the user to quickly access each section of the landing page. Additionally, We have added semantic elements into the HTML  and added alt attributes to each image.  
 
 ## Link for Deployed Application
+https://melissabcadena.github.io/horiseon-marketing/
 
 ## Screenshot
+<img src="assets/images/horiseon-marketing-screenshot.png">
