@@ -2,10 +2,13 @@
 
 ## Description
 
-Horiseon is an agency assisting with SEO, online reputation management, and Social Media Marketing. We have created a landing page to highlight these services. We have made this page accessible by creating navigation in the header which allows the the user to quickly access each section of the landing page. Additionally, We have added semantic elements into the HTML  and added alt attributes to each image.  
+In this assignment, our class was requested to refactor the code for the landing page of a fictional company, Horiseon Marketing. The assignment was to update the website to follow accessibility standards. We have done this by updating the HTML file with semantic elements and adding alt attributes to images. In updating these sematic elements, we also updated the CSS file selectors to ensure we did not alter the look and functionality of the webgage. By adding these items, we have enhanced the web page's search engine optimization and accessible for those using assistive technologies. 
 
 ## Link for Deployed Application
-https://melissabcadena.github.io/horiseon-marketing/
+[Link to my website] (https://melissabcadena.github.io/horiseon-marketing/)
+
+## Link for GitHub Repository
+https://github.com/melissabcadena/horiseon-marketing
 
 ## Screenshot
 <img src="assets/images/horiseon-marketing-screenshot.png">

@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* heading styles  begin */
+/* heading styles begin */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,7 +42,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-header nav ul li a {
+a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -69,7 +69,7 @@ main {
     margin-left: 20px;
 }
 
-main article {
+.info {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -78,11 +78,11 @@ main article {
     color: #ffffff;
 }
 
-main article img {
+.info img {
     max-height: 200px;
 }
 
-main article h2 {
+.info h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -114,17 +114,17 @@ aside {
     background-color: #2589bd;
 }
 
-aside div {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside div h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside div img  {
+.benefit img  {
     display: block;
     margin: 10px auto;
     max-width: 150px;
